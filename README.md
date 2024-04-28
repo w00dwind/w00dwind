@@ -15,7 +15,6 @@
 [Прогноз оттока клиентов для телеком компании (Practicum)](https://github.com/w00dwind/practicum/tree/main/15_final_project)
 
 
-[Управление воротами esp8266 + Blynk](https://github.com/w00dwind/slider_gate)
 
 
 
