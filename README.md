@@ -1,11 +1,5 @@
 
-Data Scientist с математической подготовкой (курсы MIPT coursera, Yandex practicum). Увлекаюсь автоматизацией и инженерией (Home Assistant, Linux). Ищу позицию Junior DS/Analyst. Обладаю высокой дисциплиной и soft skills благодаря 12-летнему опыту работы в высококонкурентной среде (академическая музыка).
 
-Освоенные курсы:
-* Yandex Practicum - Специалист по  DataScience
-* Национальный исследовательский университет "Высшая школа экономики" & Yandex School of Data Analysis - Введение в машинное обучение (Coursera)
-* ФПМИ МФТИ - Школа глубокого обучения (Deep Learning School) (Stepik)
-* МФТИ -  Математика и Python для анализа данных (Coursera)
 
 # Проекты: 
 [Проект по классификации персонажей симпсонов (DL school)](https://github.com/w00dwind/DL_school/tree/main/20_Simpsons)
